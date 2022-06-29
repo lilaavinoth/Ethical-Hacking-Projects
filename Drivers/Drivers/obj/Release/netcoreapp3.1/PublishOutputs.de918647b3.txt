@@ -1,0 +1,5 @@
+C:\Users\lilaa\source\repos\Drivers\Drivers\bin\Release\netcoreapp3.1\publish\Drivers.exe
+C:\Users\lilaa\source\repos\Drivers\Drivers\bin\Release\netcoreapp3.1\publish\Drivers.dll
+C:\Users\lilaa\source\repos\Drivers\Drivers\bin\Release\netcoreapp3.1\publish\Drivers.deps.json
+C:\Users\lilaa\source\repos\Drivers\Drivers\bin\Release\netcoreapp3.1\publish\Drivers.runtimeconfig.json
+C:\Users\lilaa\source\repos\Drivers\Drivers\bin\Release\netcoreapp3.1\publish\Drivers.pdb

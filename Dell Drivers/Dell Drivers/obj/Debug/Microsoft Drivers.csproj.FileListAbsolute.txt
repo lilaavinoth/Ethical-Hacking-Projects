@@ -1,0 +1,97 @@
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\opencv_core220.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\opencv_highgui220.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\opencv_imgproc220.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Microsoft Security.exe.config
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Microsoft Security.exe.manifest
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Microsoft Security.application
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Microsoft Security.exe
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Microsoft Security.pdb
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Emgu.CV.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Emgu.CV.ML.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Emgu.CV.UI.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Emgu.Util.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\FirebaseAdmin.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\FireSharp.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Api.Gax.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Auth.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Core.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Oauth2.v2.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Buffers.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Memory.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Emgu.CV.UI.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\FirebaseAdmin.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Api.Gax.pdb
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Api.Gax.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.pdb
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Auth.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Core.pdb
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Core.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Drive.v2.pdb
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Drive.v2.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Oauth2.v2.pdb
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Google.Apis.Oauth2.v2.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Buffers.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Memory.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Microsoft Drivers.csproj.App.config
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Dell_Drivers.Form1.resources
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Dell_Drivers.Microsoft_Diagnose.resources
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Dell_Drivers.Microsoft_Scanner.resources
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Dell_Drivers.Microsoft.resources
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Dell_Drivers.SS.resources
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Dell_Drivers.Microsoft_Security.resources
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Dell_Drivers.Windows_Defender.resources
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Dell_Drivers.Windows_Scanner.resources
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Dell_Drivers.Windows.resources
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Microsoft Drivers.csproj.GenerateResource.cache
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Microsoft Drivers.csproj.CoreCompileInputs.cache
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Microsoft Security.TrustInfo.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Microsoft Security.exe.manifest
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Microsoft Security.application
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Microsoft Drivers.csproj.CopyComplete
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Microsoft Security.exe
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Microsoft Security.pdb
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Microsoft Drivers.csproj.AssemblyReference.cache
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.ValueTuple.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Vanara.Core.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Vanara.PInvoke.Shared.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Vanara.PInvoke.WinINet.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\System.ValueTuple.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Vanara.Core.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Vanara.PInvoke.Shared.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\Vanara.PInvoke.WinINet.xml
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\bin\Debug\fr\Vanara.Core.resources.dll
+C:\Users\lilaa\source\repos\Dell Drivers\Dell Drivers\obj\Debug\Microsoft_Security.Properties.Resources.resources

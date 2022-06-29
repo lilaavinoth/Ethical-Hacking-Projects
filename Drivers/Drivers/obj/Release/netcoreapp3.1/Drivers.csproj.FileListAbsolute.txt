@@ -1,0 +1,15 @@
+C:\Users\lilaa\source\repos\Drivers\Drivers\bin\Release\netcoreapp3.1\Drivers.exe
+C:\Users\lilaa\source\repos\Drivers\Drivers\bin\Release\netcoreapp3.1\Drivers.deps.json
+C:\Users\lilaa\source\repos\Drivers\Drivers\bin\Release\netcoreapp3.1\Drivers.runtimeconfig.json
+C:\Users\lilaa\source\repos\Drivers\Drivers\bin\Release\netcoreapp3.1\Drivers.runtimeconfig.dev.json
+C:\Users\lilaa\source\repos\Drivers\Drivers\bin\Release\netcoreapp3.1\Drivers.dll
+C:\Users\lilaa\source\repos\Drivers\Drivers\bin\Release\netcoreapp3.1\Drivers.pdb
+C:\Users\lilaa\source\repos\Drivers\Drivers\obj\Release\netcoreapp3.1\Drivers.csproj.AssemblyReference.cache
+C:\Users\lilaa\source\repos\Drivers\Drivers\obj\Release\netcoreapp3.1\Drivers.Form1.resources
+C:\Users\lilaa\source\repos\Drivers\Drivers\obj\Release\netcoreapp3.1\Drivers.csproj.GenerateResource.cache
+C:\Users\lilaa\source\repos\Drivers\Drivers\obj\Release\netcoreapp3.1\Drivers.AssemblyInfoInputs.cache
+C:\Users\lilaa\source\repos\Drivers\Drivers\obj\Release\netcoreapp3.1\Drivers.AssemblyInfo.cs
+C:\Users\lilaa\source\repos\Drivers\Drivers\obj\Release\netcoreapp3.1\Drivers.csproj.CoreCompileInputs.cache
+C:\Users\lilaa\source\repos\Drivers\Drivers\obj\Release\netcoreapp3.1\Drivers.dll
+C:\Users\lilaa\source\repos\Drivers\Drivers\obj\Release\netcoreapp3.1\Drivers.pdb
+C:\Users\lilaa\source\repos\Drivers\Drivers\obj\Release\netcoreapp3.1\Drivers.genruntimeconfig.cache
